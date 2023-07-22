@@ -1,0 +1,27 @@
+.progressBar{
+    width: 50%;
+}
+
+.progressBar1{
+    width: 20%;
+}
+
+.progressBar2 {
+    width: 40%;
+}
+
+.progressBar3 {
+    width: 60%;
+}
+
+.progressBar4 {
+    width: 80%;
+}
+
+.progressBar5 {
+    width: 100%;
+}
+
+.imgStyle{
+    width: 25rem;
+}
